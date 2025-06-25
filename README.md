@@ -14,37 +14,53 @@
 
 
 ## 2 Key maths (cheat-sheet)
-### Live-window example (REC)
-\[
-\displaystyle   \text{REC}_{\text{raw}}=\alpha P_0+(1-\alpha)\alpha P_1+\ldots,\quad
-Z_{\text{REC}}=\frac{\text{REC}_{\text{raw}}-\mu}{\sigma}\frac{m}{5}\Big|_{\lvert Z\rvert\le3}
-\]
 
-### 3-Year roll-up
-\[
-\text{PPR}_{3y}=\frac{0.60\,PPR_0+0.36\,PPR_1+0.216\,PPR_2}{0.60+0.36+0.216}
-\]
+### Live-window EWMA (REC)
+$$
+\operatorname{REC}_{\text{raw}}
+    = \alpha P_0 + (1-\alpha)\alpha P_1 + (1-\alpha)^2\alpha P_2 + \dots
+$$
 
-### Linear RAW
-\[
-\text{RAW}=0.15+\sum w_k\,Z_k
-\]
+$$
+Z_{\text{REC}}
+    = \frac{\operatorname{REC}_{\text{raw}}-\mu}{\sigma}\cdot\frac{m}{5},
+    \qquad |Z|\le 3
+$$
 
-### Strength
-\[
-S=\frac{1}{1+e^{-\text{RAW}}}\;\; (0\!\to\!1)
-\]
+### 3-year roll-up (PPR)
 
-### Price band (analytic)
-\[
-\begin{cases}
-\displaystyle\sum p_i=\tau\cdot\text{cap}\\[2pt]
-p_{\min}=m_{\min}\cdot\text{slot}\\[2pt]
-p_i=a+bS_i
-\end{cases}
-\Longrightarrow
+$$
+\operatorname{PPR}_{3y}
+  = \frac{0.60\,\operatorname{PPR}_0 + 0.36\,\operatorname{PPR}_1 + 0.216\,\operatorname{PPR}_2}
+         {0.60 + 0.36 + 0.216}
+$$
+
+### Linear RAW score
+
+$$
+\text{RAW} = 0.15 + \sum_k w_k\,Z_k
+$$
+
+### Strength mapping
+
+$$
+S = \frac{1}{1 + e^{-\text{RAW}}}\qquad (0 \;\longrightarrow\; 1)
+$$
+
+### Analytic price band
+
+$$
 \begin{aligned}
-b&=\frac{\tau\text{cap}-n\,p_{\min}}{\sum S_i-nS_{\min}}\\
-p_{\max}&=p_{\min}+b(S_{\max}-S_{\min})
+\sum_i p_i &= \tau \cdot \text{cap},\\[4pt]
+p_{\min}   &= m_{\min}\,\text{slot},\\[4pt]
+p_i        &= a + b\,S_i
 \end{aligned}
-\]
+$$
+
+$$
+\Longrightarrow\qquad
+\begin{aligned}
+b        &= \frac{\tau\,\text{cap} - n\,p_{\min}}{\sum_i S_i - n S_{\min}},\\[6pt]
+p_{\max} &= p_{\min} + b\,(S_{\max} - S_{\min})
+\end{aligned}
+$$
