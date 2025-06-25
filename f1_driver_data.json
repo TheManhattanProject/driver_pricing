@@ -1,0 +1,2589 @@
+[
+  {
+    "Name": "Oscar Piastri",
+    "Team": "McLaren",
+    "Age": 23,
+    "ChampionshipWins": 0,
+    "CareerPodiums": 18,
+    "CareerStarts": 56,
+    "Seasons": [
+      {
+        "Year": 2025,
+        "Team": "McLaren",
+        "Points": 184.0,
+        "Wins": 5,
+        "Podiums": 8,
+        "Races": 10,
+        "PointFinishes": 10,
+        "DNFs": 0,
+        "TeamPoints": 374.0,
+        "TeamPosition": 1,
+        "TeammatePoints": 176.0,
+        "RecentRaces": [
+          {
+            "RaceName": "Canadian Grand Prix",
+            "RaceNumber": 10,
+            "FinishPosition": 4,
+            "StartPosition": 3,
+            "PointsScored": 12.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          },
+          {
+            "RaceName": "Spanish Grand Prix",
+            "RaceNumber": 9,
+            "FinishPosition": 1,
+            "StartPosition": 1,
+            "PointsScored": 25.0,
+            "FastestLap": true,
+            "DNF": false,
+            "Classified": true
+          },
+          {
+            "RaceName": "Monaco Grand Prix",
+            "RaceNumber": 8,
+            "FinishPosition": 3,
+            "StartPosition": 3,
+            "PointsScored": 15.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          },
+          {
+            "RaceName": "Emilia Romagna Grand Prix",
+            "RaceNumber": 7,
+            "FinishPosition": 3,
+            "StartPosition": 1,
+            "PointsScored": 15.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          },
+          {
+            "RaceName": "Miami Grand Prix",
+            "RaceNumber": 6,
+            "FinishPosition": 1,
+            "StartPosition": 4,
+            "PointsScored": 25.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          }
+        ]
+      },
+      {
+        "Year": 2024,
+        "Team": "McLaren",
+        "Points": 292.0,
+        "Wins": 2,
+        "Podiums": 8,
+        "Races": 24,
+        "PointFinishes": 23,
+        "DNFs": 0,
+        "TeamPoints": 666.0,
+        "TeamPosition": 1,
+        "TeammatePoints": 374.0
+      }
+    ],
+    "PrimaryStyle": "Smooth",
+    "SecondaryStyle": "All-Rounder",
+    "Specialties": ["TechnicalTracks", "RaceConsistency", "SetupAdaptability"],
+    "Weaknesses": ["OvertakingSkill"],
+    "IsRookie": false,
+    "MarketPopularity": "High",
+    "TeamData": {
+      "Year": 2025,
+      "Name": "McLaren",
+      "CurrentRace": 10,
+      "PowerUnit": "Mercedes",
+      "SeasonPosition": 1,
+      "SeasonPoints": 374.0,
+      "BudgetTier": "Top",
+      "SeasonHistory": [
+        {
+          "Year": 2024,
+          "Position": 1,
+          "Points": 666.0,
+          "Wins": 6,
+          "Podiums": 21,
+          "Races": 24
+        },
+        {
+          "Year": 2023,
+          "Position": 4,
+          "Points": 302.0,
+          "Wins": 0,
+          "Podiums": 9,
+          "Races": 22
+        }
+      ],
+      "Wins": 7,
+      "Podiums": 16,
+      "DNFs": 1,
+      "RecentUpgrades": false,
+      "RecentRacePositions": [1.0, 2.0, 1.0, 1.0, 4.0],
+      "RecentQualifyingPositions": [2.0, 1.0, 1.0, 1.0, 3.0]
+    },
+    "IsTeamLeader": false,
+    "CurrentRaceNumber": 11,
+    "TotalRacesInSeason": 24,
+    "PreviousTeam": "",
+    "RacesWithCurrentTeam": 56
+  },
+  {
+    "Name": "Lando Norris",
+    "Team": "McLaren",
+    "Age": 25,
+    "ChampionshipWins": 0,
+    "CareerPodiums": 34,
+    "CareerStarts": 138,
+    "Seasons": [
+      {
+        "Year": 2025,
+        "Team": "McLaren",
+        "Points": 176,
+        "Wins": 2,
+        "Podiums": 8,
+        "Races": 10,
+        "PointFinishes": 8,
+        "DNFs": 1,
+        "TeamPoints": 374.0,
+        "TeamPosition": 1,
+        "TeammatePoints": 184,
+        "RecentRaces": [
+          {
+            "RaceName": "Canadian Grand Prix",
+            "RaceNumber": 10,
+            "FinishPosition": 18,
+            "StartPosition": 7,
+            "PointsScored": 0.0,
+            "FastestLap": false,
+            "DNF": true,
+            "Classified": true
+          },
+          {
+            "RaceName": "Spanish Grand Prix",
+            "RaceNumber": 9,
+            "FinishPosition": 2,
+            "StartPosition": 2,
+            "PointsScored": 18.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          },
+          {
+            "RaceName": "Monaco Grand Prix",
+            "RaceNumber": 8,
+            "FinishPosition": 1,
+            "StartPosition": 1,
+            "PointsScored": 25.0,
+            "FastestLap": true,
+            "DNF": false,
+            "Classified": true
+          },
+          {
+            "RaceName": "Emilia Romagna Grand Prix",
+            "RaceNumber": 7,
+            "FinishPosition": 2,
+            "StartPosition": 4,
+            "PointsScored": 18.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          },
+          {
+            "RaceName": "Miami Grand Prix",
+            "RaceNumber": 6,
+            "FinishPosition": 2,
+            "StartPosition": 2,
+            "PointsScored": 18.0,
+            "FastestLap": true,
+            "DNF": false,
+            "Classified": true
+          }
+        ]
+      },
+      {
+        "Year": 2024,
+        "Team": "McLaren",
+        "Points": 374.0,
+        "Wins": 4,
+        "Podiums": 13,
+        "Races": 24,
+        "PointFinishes": 23,
+        "DNFs": 1,
+        "TeamPoints": 666.0,
+        "TeamPosition": 1,
+        "TeammatePoints": 292.0
+      }
+    ],
+    "PrimaryStyle": "Smooth",
+    "SecondaryStyle": "Defensive",
+    "Specialties": [
+      "WetWeather",
+      "TechnicalTracks",
+      "FuelSaving",
+      "RaceConsistency"
+    ],
+    "Weaknesses": ["RaceStart"],
+    "IsRookie": false,
+    "MarketPopularity": "High",
+    "TeamData": {
+      "Year": 2025,
+      "Name": "McLaren",
+      "PowerUnit": "Mercedes",
+      "SeasonPosition": 1,
+      "CurrentRace": 10,
+      "SeasonPoints": 374.0,
+      "BudgetTier": "Top",
+      "SeasonHistory": [
+        {
+          "Year": 2024,
+          "Position": 1,
+          "Points": 666.0,
+          "Wins": 6,
+          "Podiums": 21,
+          "Races": 24
+        },
+        {
+          "Year": 2023,
+          "Position": 4,
+          "Points": 302.0,
+          "Wins": 0,
+          "Podiums": 9,
+          "Races": 22
+        }
+      ],
+      "Wins": 7,
+      "Podiums": 16,
+      "DNFs": 1,
+      "RecentUpgrades": false,
+      "RecentRacePositions": [1.0, 2.0, 1.0, 1.0, 4.0],
+      "RecentQualifyingPositions": [2.0, 1.0, 1.0, 1.0, 3.0]
+    },
+    "IsTeamLeader": false,
+    "CurrentRaceNumber": 10,
+    "TotalRacesInSeason": 24,
+    "PreviousTeam": "",
+    "RacesWithCurrentTeam": 128
+  },
+  {
+    "Name": "Max Verstappen",
+    "Team": "Red Bull Racing",
+    "Age": 27,
+    "ChampionshipWins": 4,
+    "CareerPodiums": 117,
+    "CareerStarts": 219,
+    "Seasons": [
+      {
+        "Year": 2025,
+        "Team": "Red Bull Racing",
+        "Points": 155,
+        "Wins": 2,
+        "Podiums": 5,
+        "Races": 10,
+        "PointFinishes": 10,
+        "DNFs": 0,
+        "TeamPoints": 162,
+        "TeamPosition": 4,
+        "TeammatePoints": 7,
+        "RecentRaces": [
+          {
+            "RaceName": "Canadian Grand Prix",
+            "RaceNumber": 10,
+            "FinishPosition": 2,
+            "StartPosition": 2,
+            "PointsScored": 18.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          },
+          {
+            "RaceName": "Spanish Grand Prix",
+            "RaceNumber": 9,
+            "FinishPosition": 10,
+            "StartPosition": 3,
+            "PointsScored": 1.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          },
+          {
+            "RaceName": "Monaco Grand Prix",
+            "RaceNumber": 8,
+            "FinishPosition": 4,
+            "StartPosition": 4,
+            "PointsScored": 12.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          },
+          {
+            "RaceName": "Emilia Romagna Grand Prix",
+            "RaceNumber": 7,
+            "FinishPosition": 1,
+            "StartPosition": 2,
+            "PointsScored": 25.0,
+            "FastestLap": true,
+            "DNF": false,
+            "Classified": true
+          },
+          {
+            "RaceName": "Miami Grand Prix",
+            "RaceNumber": 6,
+            "FinishPosition": 4,
+            "StartPosition": 1,
+            "PointsScored": 12.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          }
+        ]
+      },
+      {
+        "Year": 2024,
+        "Team": "Red Bull Racing",
+        "Points": 437.0,
+        "Wins": 9,
+        "Podiums": 14,
+        "Races": 24,
+        "PointFinishes": 23,
+        "DNFs": 1,
+        "TeamPoints": 589.0,
+        "TeamPosition": 3,
+        "TeammatePoints": 152.0
+      }
+    ],
+    "PrimaryStyle": "Aggressive",
+    "SecondaryStyle": "All-Rounder",
+    "Specialties": [
+      "RaceStart",
+      "OvertakingSkill",
+      "ERSManagement",
+      "RaceConsistency",
+      "SafetyCarRestart"
+    ],
+    "Weaknesses": [],
+    "IsRookie": false,
+    "MarketPopularity": "High",
+    "TeamData": {
+      "Year": 2025,
+      "Name": "Red Bull Racing",
+      "CurrentRace": 10,
+      "PowerUnit": "Honda RBPT",
+      "SeasonPosition": 4,
+      "SeasonPoints": 162.0,
+      "BudgetTier": "Top",
+      "SeasonHistory": [
+        {
+          "Year": 2024,
+          "Position": 3,
+          "Points": 589.0,
+          "Wins": 9,
+          "Podiums": 18,
+          "Races": 24
+        },
+        {
+          "Year": 2023,
+          "Position": 1,
+          "Points": 860.0,
+          "Wins": 21,
+          "Podiums": 30,
+          "Races": 22
+        }
+      ],
+      "Wins": 2,
+      "Podiums": 52,
+      "DNFs": 1,
+      "RecentUpgrades": true,
+      "RecentRacePositions": [2.0, 2.0, 4.0, 1.0, 2.0],
+      "RecentQualifyingPositions": [2.0, 2.0, 4.0, 3.0, 1.0]
+    },
+    "IsTeamLeader": true,
+    "CurrentRaceNumber": 10,
+    "TotalRacesInSeason": 24,
+    "PreviousTeam": "",
+    "RacesWithCurrentTeam": 219
+  },
+  {
+    "Name": "Yuki Tsunoda",
+    "Team": "Red Bull Racing",
+    "Age": 25,
+    "ChampionshipWins": 0,
+    "CareerPodiums": 0,
+    "CareerStarts": 97,
+    "Seasons": [
+      {
+        "Year": 2025,
+        "Team": "Red Bull Racing",
+        "Points": 10,
+        "Wins": 0,
+        "Podiums": 0,
+        "Races": 8,
+        "PointFinishes": 1,
+        "DNFs": 1,
+        "TeamPoints": 162,
+        "TeamPosition": 4,
+        "TeammatePoints": 155,
+        "RecentRaces": [
+          {
+            "RaceName": "Canadian Grand Prix",
+            "RaceNumber": 10,
+            "FinishPosition": 12,
+            "StartPosition": 20,
+            "PointsScored": 0.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          },
+          {
+            "RaceName": "Spanish Grand Prix",
+            "RaceNumber": 9,
+            "FinishPosition": 13,
+            "StartPosition": 20,
+            "PointsScored": 0.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          },
+          {
+            "RaceName": "Monaco Grand Prix",
+            "RaceNumber": 8,
+            "FinishPosition": 17,
+            "StartPosition": 12,
+            "PointsScored": 0.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          },
+          {
+            "RaceName": "Emilia Romagna Grand Prix",
+            "RaceNumber": 7,
+            "FinishPosition": 10,
+            "StartPosition": 20,
+            "PointsScored": 1.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          },
+          {
+            "RaceName": "Miami Grand Prix",
+            "RaceNumber": 6,
+            "FinishPosition": 10,
+            "StartPosition": 10,
+            "PointsScored": 4.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          }
+        ]
+      },
+      {
+        "Year": 2024,
+        "Team": "Racing Bulls",
+        "Points": 30.0,
+        "Wins": 0,
+        "Podiums": 0,
+        "Races": 24,
+        "PointFinishes": 9,
+        "DNFs": 4,
+        "TeamPoints": 72.0,
+        "TeamPosition": 8,
+        "TeammatePoints": 42.0
+      }
+    ],
+    "PrimaryStyle": "Aggressive",
+    "SecondaryStyle": "Overtaker",
+    "Specialties": ["Street", "RaceStart", "OvertakingSkill"],
+    "Weaknesses": ["RaceConsistency", "ERSManagement"],
+    "IsRookie": false,
+    "MarketPopularity": "Medium",
+    "TeamData": {
+      "Year": 2025,
+      "Name": "Red Bull Racing",
+      "CurrentRace": 10,
+      "PowerUnit": "Honda RBPT",
+      "SeasonPosition": 4,
+      "SeasonPoints": 162.0,
+      "BudgetTier": "Top",
+      "SeasonHistory": [
+        {
+          "Year": 2024,
+          "Position": 3,
+          "Points": 589.0,
+          "Wins": 9,
+          "Podiums": 18,
+          "Races": 24
+        },
+        {
+          "Year": 2023,
+          "Position": 1,
+          "Points": 860.0,
+          "Wins": 21,
+          "Podiums": 30,
+          "Races": 22
+        }
+      ],
+      "Wins": 2,
+      "Podiums": 52,
+      "DNFs": 1,
+      "RecentUpgrades": true,
+      "RecentRacePositions": [2.0, 2.0, 4.0, 1.0, 2.0],
+      "RecentQualifyingPositions": [2.0, 2.0, 4.0, 3.0, 1.0]
+    },
+    "IsTeamLeader": false,
+    "CurrentRaceNumber": 10,
+    "TotalRacesInSeason": 24,
+    "PreviousTeam": "Racing Bulls",
+    "RacesWithCurrentTeam": 8
+  },
+  {
+    "Name": "Lewis Hamilton",
+    "Team": "Ferrari",
+    "Age": 40,
+    "ChampionshipWins": 7,
+    "CareerPodiums": 202,
+    "CareerStarts": 366,
+    "Seasons": [
+      {
+        "Year": 2025,
+        "Team": "Ferrari",
+        "Points": 79,
+        "Wins": 0,
+        "Podiums": 0,
+        "Races": 10,
+        "PointFinishes": 9,
+        "DNFs": 0,
+        "TeamPoints": 183,
+        "TeamPosition": 3,
+        "TeammatePoints": 104,
+        "RecentRaces": [
+          {
+            "RaceName": "Miami Grand Prix",
+            "RaceNumber": 6,
+            "StartPosition": 12,
+            "FinishPosition": 8,
+            "PointsScored": 4.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          },
+          {
+            "RaceName": "Emilia Romagna Grand Prix",
+            "RaceNumber": 7,
+            "StartPosition": 12,
+            "FinishPosition": 4,
+            "PointsScored": 12.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          },
+          {
+            "RaceName": "Monaco Grand Prix",
+            "RaceNumber": 8,
+            "StartPosition": 7,
+            "FinishPosition": 5,
+            "PointsScored": 10.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          },
+          {
+            "RaceName": "Spanish Grand Prix",
+            "RaceNumber": 9,
+            "StartPosition": 5,
+            "FinishPosition": 6,
+            "PointsScored": 8.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          },
+          {
+            "RaceName": "Canadian Grand Prix",
+            "RaceNumber": 10,
+            "StartPosition": 5,
+            "FinishPosition": 6,
+            "PointsScored": 8.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          }
+        ]
+      },
+      {
+        "Year": 2024,
+        "Team": "Mercedes",
+        "Points": 223.0,
+        "Wins": 2,
+        "Podiums": 5,
+        "Races": 24,
+        "PointFinishes": 21,
+        "DNFs": 2,
+        "TeamPoints": 468.0,
+        "TeamPosition": 4,
+        "TeammatePoints": 245.0
+      }
+    ],
+    "PrimaryStyle": "Smooth",
+    "SecondaryStyle": "Defensive",
+    "Specialties": [
+      "WetWeather",
+      "TireManagement",
+      "TechnicalTracks",
+      "RaceConsistency",
+      "FuelSaving"
+    ],
+    "Weaknesses": [],
+    "IsRookie": false,
+    "MarketPopularity": "High",
+    "TeamData": {
+      "Year": 2025,
+      "Name": "Ferrari",
+      "CurrentRace": 10,
+      "PowerUnit": "Ferrari",
+      "SeasonPosition": 3,
+      "SeasonPoints": 183,
+      "BudgetTier": "Top",
+      "SeasonHistory": [
+        {
+          "Year": 2024,
+          "Position": 2,
+          "Points": 652,
+          "Wins": 11,
+          "Podiums": 26,
+          "Races": 24
+        },
+        {
+          "Year": 2023,
+          "Position": 2,
+          "Points": 637,
+          "Wins": 6,
+          "Podiums": 17,
+          "Races": 22
+        }
+      ],
+      "Wins": 0,
+      "Podiums": 3,
+      "DNFs": 2,
+      "RecentUpgrades": true,
+      "RecentRacePositions": [7, 8, 12, 5, 6, 6],
+      "RecentQualifyingPositions": [7, 7, 12, 8, 5, 5]
+    },
+    "IsTeamLeader": false,
+    "CurrentRaceNumber": 11,
+    "TotalRacesInSeason": 24,
+    "PreviousTeam": "Mercedes",
+    "RacesWithCurrentTeam": 10
+  },
+  {
+    "Name": "Charles Leclerc",
+    "Team": "Ferrari",
+    "Age": 27,
+    "ChampionshipWins": 0,
+    "CareerPodiums": 46,
+    "CareerStarts": 157,
+    "Seasons": [
+      {
+        "Year": 2025,
+        "Team": "Ferrari",
+        "Points": 104,
+        "Wins": 0,
+        "Podiums": 3,
+        "Races": 10,
+        "PointFinishes": 9,
+        "DNFs": 1,
+        "TeamPoints": 183,
+        "TeamPosition": 3,
+        "TeammatePoints": 79,
+        "RecentRaces": [
+          {
+            "RaceName": "Miami Grand Prix",
+            "RaceNumber": 6,
+            "StartPosition": 7,
+            "FinishPosition": 7,
+            "PointsScored": 6.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          },
+          {
+            "RaceName": "Emilia Romagna Grand Prix",
+            "RaceNumber": 7,
+            "StartPosition": 11,
+            "FinishPosition": 6,
+            "PointsScored": 8.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          },
+          {
+            "RaceName": "Monaco Grand Prix",
+            "RaceNumber": 8,
+            "StartPosition": 2,
+            "FinishPosition": 2,
+            "PointsScored": 18.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          },
+          {
+            "RaceName": "Spanish Grand Prix",
+            "RaceNumber": 9,
+            "StartPosition": 3,
+            "FinishPosition": 3,
+            "PointsScored": 15.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          },
+          {
+            "RaceName": "Canadian Grand Prix",
+            "RaceNumber": 10,
+            "StartPosition": 5,
+            "FinishPosition": 5,
+            "PointsScored": 10.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          }
+        ]
+      },
+      {
+        "Year": 2024,
+        "Team": "Ferrari",
+        "Points": 356.0,
+        "Wins": 3,
+        "Podiums": 13,
+        "Races": 24,
+        "PointFinishes": 21,
+        "DNFs": 1,
+        "TeamPoints": 652.0,
+        "TeamPosition": 2,
+        "TeammatePoints": 290.0
+      }
+    ],
+    "PrimaryStyle": "Aggressive",
+    "SecondaryStyle": "Overtaker",
+    "Specialties": ["QualifyingPace", "RaceStart", "SafetyCarRestart"],
+    "Weaknesses": ["TechnicalCorners"],
+    "IsRookie": false,
+    "MarketPopularity": "High",
+    "TeamData": {
+      "Year": 2025,
+      "Name": "Ferrari",
+      "CurrentRace": 10,
+      "PowerUnit": "Ferrari",
+      "SeasonPosition": 3,
+      "SeasonPoints": 183,
+      "BudgetTier": "Top",
+      "SeasonHistory": [
+        {
+          "Year": 2024,
+          "Position": 2,
+          "Points": 652,
+          "Wins": 11,
+          "Podiums": 26,
+          "Races": 24
+        },
+        {
+          "Year": 2023,
+          "Position": 2,
+          "Points": 637,
+          "Wins": 6,
+          "Podiums": 17,
+          "Races": 22
+        }
+      ],
+      "Wins": 0,
+      "Podiums": 3,
+      "DNFs": 2,
+      "RecentUpgrades": true,
+      "RecentRacePositions": [7, 8, 12, 5, 6, 6],
+      "RecentQualifyingPositions": [7, 7, 12, 8, 5, 5]
+    },
+    "IsTeamLeader": true,
+    "CurrentRaceNumber": 11,
+    "TotalRacesInSeason": 24,
+    "PreviousTeam": "",
+    "RacesWithCurrentTeam": 136
+  },
+  {
+    "Name": "George Russell",
+    "Team": "Mercedes",
+    "Age": 26,
+    "ChampionshipWins": 0,
+    "CareerPodiums": 20,
+    "CareerStarts": 138,
+    "Seasons": [
+      {
+        "Year": 2025,
+        "Team": "Mercedes",
+        "Points": 136,
+        "Wins": 1,
+        "Podiums": 5,
+        "Races": 10,
+        "PointFinishes": 9,
+        "DNFs": 0,
+        "TeamPoints": 199,
+        "TeamPosition": 2,
+        "TeammatePoints": 63,
+        "RecentRaces": [
+          {
+            "RaceName": "Miami Grand Prix",
+            "RaceNumber": 6,
+            "StartPosition": 5,
+            "FinishPosition": 3,
+            "PointsScored": 15.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          },
+          {
+            "RaceName": "Emilia Romagna Grand Prix",
+            "RaceNumber": 7,
+            "StartPosition": 3,
+            "FinishPosition": 7,
+            "PointsScored": 6.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          },
+          {
+            "RaceName": "Monaco Grand Prix",
+            "RaceNumber": 8,
+            "StartPosition": 14,
+            "FinishPosition": 11,
+            "PointsScored": 0.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": false
+          },
+          {
+            "RaceName": "Spanish Grand Prix",
+            "RaceNumber": 9,
+            "StartPosition": 4,
+            "FinishPosition": 4,
+            "PointsScored": 12.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          },
+          {
+            "RaceName": "Canadian Grand Prix",
+            "RaceNumber": 10,
+            "StartPosition": 1,
+            "FinishPosition": 1,
+            "PointsScored": 25.0,
+            "FastestLap": true,
+            "DNF": false,
+            "Classified": true
+          }
+        ]
+      },
+      {
+        "Year": 2024,
+        "Team": "Mercedes",
+        "Points": 245.0,
+        "Wins": 2,
+        "Podiums": 4,
+        "Races": 24,
+        "PointFinishes": 21,
+        "DNFs": 1,
+        "TeamPoints": 468.0,
+        "TeamPosition": 4,
+        "TeammatePoints": 223.0
+      }
+    ],
+    "PrimaryStyle": "Smooth",
+    "SecondaryStyle": "Defensive",
+    "Specialties": ["WetWeather", "FastCorners", "TechnicalTracks"],
+    "Weaknesses": ["RaceStart"],
+    "IsRookie": false,
+    "MarketPopularity": "Medium",
+    "TeamData": {
+      "Year": 2025,
+      "Name": "Mercedes",
+      "CurrentRace": 10,
+      "PowerUnit": "Mercedes",
+      "SeasonPosition": 2,
+      "SeasonPoints": 199,
+      "BudgetTier": "Top",
+      "SeasonHistory": [
+        {
+          "Year": 2024,
+          "Position": 4,
+          "Points": 468,
+          "Wins": 4,
+          "Podiums": 9,
+          "Races": 24
+        },
+        {
+          "Year": 2023,
+          "Position": 2,
+          "Points": 409,
+          "Wins": 0,
+          "Podiums": 8,
+          "Races": 22
+        }
+      ],
+      "Wins": 1,
+      "Podiums": 6,
+      "DNFs": 0,
+      "RecentUpgrades": true,
+      "RecentRacePositions": [2, 5, 3, 7, 11, 4, 1],
+      "RecentQualifyingPositions": [3, 3, 4, 14, 6, 5, 1]
+    },
+    "IsTeamLeader": false,
+    "CurrentRaceNumber": 10,
+    "TotalRacesInSeason": 24,
+    "PreviousTeam": "Williams",
+    "RacesWithCurrentTeam": 78
+  },
+  {
+    "Name": "Kimi Antonelli",
+    "Team": "Mercedes",
+    "Age": 18,
+    "ChampionshipWins": 0,
+    "CareerPodiums": 1,
+    "CareerStarts": 10,
+    "Seasons": [
+      {
+        "Year": 2025,
+        "Team": "Mercedes",
+        "Points": 63,
+        "Wins": 0,
+        "Podiums": 1,
+        "Races": 10,
+        "PointFinishes": 6,
+        "DNFs": 2,
+        "TeamPoints": 199,
+        "TeamPosition": 2,
+        "TeammatePoints": 136,
+        "RecentRaces": [
+          {
+            "RaceName": "Miami Grand Prix",
+            "RaceNumber": 6,
+            "StartPosition": 6,
+            "FinishPosition": 6,
+            "PointsScored": 8.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          },
+          {
+            "RaceName": "Emilia Romagna Grand Prix",
+            "RaceNumber": 7,
+            "StartPosition": 13,
+            "FinishPosition": null,
+            "PointsScored": 0.0,
+            "FastestLap": false,
+            "DNF": true,
+            "Classified": false
+          },
+          {
+            "RaceName": "Monaco Grand Prix",
+            "RaceNumber": 8,
+            "StartPosition": 15,
+            "FinishPosition": 18,
+            "PointsScored": 0.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": false
+          },
+          {
+            "RaceName": "Spanish Grand Prix",
+            "RaceNumber": 9,
+            "StartPosition": 6,
+            "FinishPosition": null,
+            "PointsScored": 0.0,
+            "FastestLap": false,
+            "DNF": true,
+            "Classified": false
+          },
+          {
+            "RaceName": "Canadian Grand Prix",
+            "RaceNumber": 10,
+            "StartPosition": 4,
+            "FinishPosition": 3,
+            "PointsScored": 15.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          }
+        ]
+      }
+    ],
+    "PrimaryStyle": "Smooth",
+    "SecondaryStyle": "Defensive",
+    "Specialties": ["WetWeather", "QualifyingPace", "TechnicalTracks"],
+    "Weaknesses": ["RaceStart", "RaceConsistency"],
+    "IsRookie": true,
+    "MarketPopularity": "Medium",
+    "TeamData": {
+      "Year": 2025,
+      "Name": "Mercedes",
+      "CurrentRace": 10,
+      "PowerUnit": "Mercedes",
+      "SeasonPosition": 2,
+      "SeasonPoints": 199,
+      "BudgetTier": "Top",
+      "SeasonHistory": [
+        {
+          "Year": 2024,
+          "Position": 4,
+          "Points": 468,
+          "Wins": 4,
+          "Podiums": 9,
+          "Races": 24
+        },
+        {
+          "Year": 2023,
+          "Position": 2,
+          "Points": 409,
+          "Wins": 0,
+          "Podiums": 8,
+          "Races": 22
+        }
+      ],
+      "Wins": 1,
+      "Podiums": 6,
+      "DNFs": 0,
+      "RecentUpgrades": true,
+      "RecentRacePositions": [2, 5, 3, 7, 11, 4, 1],
+      "RecentQualifyingPositions": [3, 3, 4, 14, 6, 5, 1]
+    },
+    "IsTeamLeader": false,
+    "CurrentRaceNumber": 10,
+    "TotalRacesInSeason": 24,
+    "PreviousTeam": "",
+    "RacesWithCurrentTeam": 10
+  },
+  {
+    "Name": "Fernando Alonso",
+    "Team": "Aston Martin",
+    "Age": 43,
+    "ChampionshipWins": 2,
+    "CareerPodiums": 106,
+    "CareerStarts": 413,
+    "Seasons": [
+      {
+        "Year": 2025,
+        "Team": "Aston Martin",
+        "Points": 8,
+        "Wins": 0,
+        "Podiums": 0,
+        "Races": 10,
+        "PointFinishes": 2,
+        "DNFs": 3,
+        "TeamPoints": 22,
+        "TeamPosition": 8,
+        "TeammatePoints": 14,
+        "RecentRaces": [
+          {
+            "RaceName": "Miami Grand Prix",
+            "RaceNumber": 6,
+            "StartPosition": 17,
+            "FinishPosition": 15,
+            "PointsScored": 0.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          },
+          {
+            "RaceName": "Emilia Romagna Grand Prix",
+            "RaceNumber": 7,
+            "StartPosition": 15,
+            "FinishPosition": 11,
+            "PointsScored": 0.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          },
+          {
+            "RaceName": "Monaco Grand Prix",
+            "RaceNumber": 8,
+            "StartPosition": 6,
+            "FinishPosition": null,
+            "PointsScored": 0.0,
+            "FastestLap": false,
+            "DNF": true,
+            "Classified": false
+          },
+          {
+            "RaceName": "Spanish Grand Prix",
+            "RaceNumber": 9,
+            "StartPosition": 9,
+            "FinishPosition": 9,
+            "PointsScored": 2.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          },
+          {
+            "RaceName": "Canadian Grand Prix",
+            "RaceNumber": 10,
+            "StartPosition": 7,
+            "FinishPosition": 7,
+            "PointsScored": 6.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          }
+        ]
+      },
+      {
+        "Year": 2024,
+        "Team": "Aston Martin",
+        "Points": 70.0,
+        "Wins": 0,
+        "Podiums": 0,
+        "Races": 24,
+        "PointFinishes": 14,
+        "DNFs": 1,
+        "TeamPoints": 94.0,
+        "TeamPosition": 5,
+        "TeammatePoints": 24.0
+      }
+    ],
+    "PrimaryStyle": "Defensive",
+    "SecondaryStyle": "All-Rounder",
+    "Specialties": [
+      "WetWeather",
+      "TireManagement",
+      "RaceConsistency",
+      "OvertakingSkill"
+    ],
+    "Weaknesses": ["QualifyingPace"],
+    "IsRookie": false,
+    "MarketPopularity": "Medium",
+    "TeamData": {
+      "Year": 2025,
+      "Name": "Aston Martin",
+      "CurrentRace": 10,
+      "PowerUnit": "Mercedes",
+      "SeasonPosition": 8,
+      "SeasonPoints": 22,
+      "BudgetTier": "Upper-Mid",
+      "SeasonHistory": [
+        {
+          "Year": 2024,
+          "Position": 5,
+          "Points": 94.0,
+          "Wins": 0,
+          "Podiums": 0,
+          "Races": 24
+        },
+        {
+          "Year": 2023,
+          "Position": 5,
+          "Points": 280.0,
+          "Wins": 0,
+          "Podiums": 8,
+          "Races": 22
+        }
+      ],
+      "Wins": 0,
+      "Podiums": 0,
+      "DNFs": 1,
+      "RecentUpgrades": true,
+      "RecentRacePositions": [12, 5, 11, 10, 14, 9, 7],
+      "RecentQualifyingPositions": [10, 6, 11, 7, 14, 9, 6]
+    },
+    "IsTeamLeader": true,
+    "CurrentRaceNumber": 11,
+    "TotalRacesInSeason": 24,
+    "PreviousTeam": "Alpine",
+    "RacesWithCurrentTeam": 56
+  },
+  {
+    "Name": "Lance Stroll",
+    "Team": "Aston Martin",
+    "Age": 26,
+    "ChampionshipWins": 0,
+    "CareerPodiums": 3,
+    "CareerStarts": 176,
+    "Seasons": [
+      {
+        "Year": 2025,
+        "Team": "Aston Martin",
+        "Points": 14,
+        "Wins": 0,
+        "Podiums": 0,
+        "Races": 10,
+        "PointFinishes": 2,
+        "DNFs": 0,
+        "TeamPoints": 22,
+        "TeamPosition": 8,
+        "TeammatePoints": 8,
+        "RecentRaces": [
+          {
+            "RaceName": "Saudi Arabian Grand Prix",
+            "RaceNumber": 5,
+            "StartPosition": 16,
+            "FinishPosition": 16,
+            "PointsScored": 0.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          },
+          {
+            "RaceName": "Miami Grand Prix",
+            "RaceNumber": 6,
+            "StartPosition": 11,
+            "FinishPosition": 16,
+            "PointsScored": 0.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          },
+          {
+            "RaceName": "Emilia Romagna Grand Prix",
+            "RaceNumber": 7,
+            "StartPosition": 15,
+            "FinishPosition": 15,
+            "PointsScored": 0.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          },
+          {
+            "RaceName": "Monaco Grand Prix",
+            "RaceNumber": 8,
+            "StartPosition": 15,
+            "FinishPosition": 15,
+            "PointsScored": 0.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          },
+          {
+            "RaceName": "Canadian Grand Prix",
+            "RaceNumber": 10,
+            "StartPosition": 18,
+            "FinishPosition": 16,
+            "PointsScored": 0.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          }
+        ]
+      },
+      {
+        "Year": 2024,
+        "Team": "Aston Martin",
+        "Points": 24.0,
+        "Wins": 0,
+        "Podiums": 0,
+        "Races": 24,
+        "PointFinishes": 6,
+        "DNFs": 2,
+        "TeamPoints": 94.0,
+        "TeamPosition": 5,
+        "TeammatePoints": 70.0
+      }
+    ],
+    "PrimaryStyle": "Defensive",
+    "SecondaryStyle": "Smooth",
+    "Specialties": ["WetWeather", "RaceConsistency"],
+    "Weaknesses": ["QualifyingPace"],
+    "IsRookie": false,
+    "MarketPopularity": "Low",
+    "TeamData": {
+      "Year": 2025,
+      "Name": "Aston Martin",
+      "CurrentRace": 10,
+      "PowerUnit": "Mercedes",
+      "SeasonPosition": 8,
+      "SeasonPoints": 22,
+      "BudgetTier": "Upper-Mid",
+      "SeasonHistory": [
+        {
+          "Year": 2024,
+          "Position": 5,
+          "Points": 94.0,
+          "Wins": 0,
+          "Podiums": 0,
+          "Races": 24
+        },
+        {
+          "Year": 2023,
+          "Position": 5,
+          "Points": 280.0,
+          "Wins": 0,
+          "Podiums": 8,
+          "Races": 22
+        }
+      ],
+      "Wins": 0,
+      "Podiums": 0,
+      "DNFs": 1,
+      "RecentUpgrades": true,
+      "RecentRacePositions": [12, 5, 11, 10, 14, 9, 7],
+      "RecentQualifyingPositions": [10, 6, 11, 7, 14, 9, 6]
+    },
+    "IsTeamLeader": false,
+    "CurrentRaceNumber": 10,
+    "TotalRacesInSeason": 24,
+    "PreviousTeam": "Williams",
+    "RacesWithCurrentTeam": 98
+  },
+  {
+    "Name": "Pierre Gasly",
+    "Team": "Alpine",
+    "Age": 29,
+    "ChampionshipWins": 0,
+    "CareerPodiums": 5,
+    "CareerStarts": 163,
+    "Seasons": [
+      {
+        "Year": 2025,
+        "Team": "Alpine",
+        "Points": 11,
+        "Wins": 0,
+        "Podiums": 0,
+        "Races": 10,
+        "PointFinishes": 2,
+        "DNFs": 2,
+        "TeamPoints": 11,
+        "TeamPosition": 10,
+        "TeammatePoints": 0,
+        "RecentRaces": [
+          {
+            "RaceName": "Miami Grand Prix",
+            "RaceNumber": 6,
+            "StartPosition": 13,
+            "FinishPosition": 13,
+            "PointsScored": 0.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          },
+          {
+            "RaceName": "Emilia Romagna Grand Prix",
+            "RaceNumber": 7,
+            "StartPosition": 15,
+            "FinishPosition": 13,
+            "PointsScored": 0.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          },
+          {
+            "RaceName": "Monaco Grand Prix",
+            "RaceNumber": 8,
+            "StartPosition": 18,
+            "FinishPosition": null,
+            "PointsScored": 0.0,
+            "FastestLap": false,
+            "DNF": true,
+            "Classified": false
+          },
+          {
+            "RaceName": "Spanish Grand Prix",
+            "RaceNumber": 9,
+            "StartPosition": 19,
+            "FinishPosition": 8,
+            "PointsScored": 4.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          },
+          {
+            "RaceName": "Canadian Grand Prix",
+            "RaceNumber": 10,
+            "StartPosition": 12,
+            "FinishPosition": 15,
+            "PointsScored": 0.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          }
+        ]
+      },
+      {
+        "Year": 2024,
+        "Team": "Alpine",
+        "Points": 42.0,
+        "Wins": 0,
+        "Podiums": 1,
+        "Races": 24,
+        "PointFinishes": 9,
+        "DNFs": 3,
+        "TeamPoints": 65.0,
+        "TeamPosition": 6,
+        "TeammatePoints": 23.0
+      }
+    ],
+    "PrimaryStyle": "Aggressive",
+    "SecondaryStyle": "All-Rounder",
+    "Specialties": ["WetWeather", "OvertakingSkill", "TechnicalCorners"],
+    "Weaknesses": ["QualifyingPace", "RaceConsistency"],
+    "IsRookie": false,
+    "MarketPopularity": "Medium",
+    "TeamData": {
+      "Year": 2025,
+      "Name": "Alpine",
+      "CurrentRace": 10,
+      "PowerUnit": "Renault",
+      "SeasonPosition": 10,
+      "SeasonPoints": 11,
+      "BudgetTier": "Upper-Mid",
+      "SeasonHistory": [
+        {
+          "Year": 2024,
+          "Position": 6,
+          "Points": 65,
+          "Wins": 0,
+          "Podiums": 2,
+          "Races": 24
+        },
+        {
+          "Year": 2023,
+          "Position": 6,
+          "Points": 120,
+          "Wins": 0,
+          "Podiums": 1,
+          "Races": 22
+        }
+      ],
+      "Wins": 0,
+      "Podiums": 0,
+      "DNFs": 4,
+      "RecentUpgrades": false,
+      "RecentRacePositions": [7, 12, 13, 13, 11, 8, 13],
+      "RecentQualifyingPositions": [4, 9, 16, 10, 11, 8, 11]
+    },
+    "IsTeamLeader": true,
+    "CurrentRaceNumber": 11,
+    "TotalRacesInSeason": 24,
+    "PreviousTeam": "Racing Bulls",
+    "RacesWithCurrentTeam": 56
+  },
+  {
+    "Name": "Franco Colapinto",
+    "Team": "Alpine",
+    "Age": 22,
+    "ChampionshipWins": 0,
+    "CareerPodiums": 0,
+    "CareerStarts": 13,
+    "Seasons": [
+      {
+        "Year": 2025,
+        "Team": "Alpine",
+        "Points": 0,
+        "Wins": 0,
+        "Podiums": 0,
+        "Races": 4,
+        "PointFinishes": 0,
+        "DNFs": 0,
+        "TeamPoints": 85,
+        "TeamPosition": 6,
+        "TeammatePoints": 11,
+        "RecentRaces": [
+          {
+            "RaceName": "Emilia Romagna Grand Prix",
+            "RaceNumber": 7,
+            "StartPosition": 16,
+            "FinishPosition": 16,
+            "PointsScored": 0.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          },
+          {
+            "RaceName": "Monaco Grand Prix",
+            "RaceNumber": 8,
+            "StartPosition": 18,
+            "FinishPosition": 13,
+            "PointsScored": 0.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          },
+          {
+            "RaceName": "Spanish Grand Prix",
+            "RaceNumber": 9,
+            "StartPosition": 18,
+            "FinishPosition": 15,
+            "PointsScored": 0.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          },
+          {
+            "RaceName": "Canadian Grand Prix",
+            "RaceNumber": 10,
+            "StartPosition": 12,
+            "FinishPosition": 13,
+            "PointsScored": 0.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          }
+        ]
+      },
+      {
+        "Year": 2024,
+        "Team": "Williams",
+        "Points": 5.0,
+        "Wins": 0,
+        "Podiums": 0,
+        "Races": 9,
+        "PointFinishes": 2,
+        "DNFs": 3,
+        "TeamPoints": 28.0,
+        "TeamPosition": 9,
+        "TeammatePoints": 23.0
+      }
+    ],
+    "PrimaryStyle": "Technical",
+    "SecondaryStyle": "Smooth",
+    "Specialties": ["WetWeather", "QualifyingPace"],
+    "Weaknesses": ["RaceStart", "RaceConsistency"],
+    "IsRookie": true,
+    "MarketPopularity": "low",
+    "TeamData": {
+      "Year": 2025,
+      "Name": "Alpine",
+      "CurrentRace": 10,
+      "PowerUnit": "Renault",
+      "SeasonPosition": 10,
+      "SeasonPoints": 11,
+      "BudgetTier": "Upper-Mid",
+      "SeasonHistory": [
+        {
+          "Year": 2024,
+          "Position": 6,
+          "Points": 65,
+          "Wins": 0,
+          "Podiums": 2,
+          "Races": 24
+        },
+        {
+          "Year": 2023,
+          "Position": 6,
+          "Points": 120,
+          "Wins": 0,
+          "Podiums": 1,
+          "Races": 22
+        }
+      ],
+      "Wins": 0,
+      "Podiums": 0,
+      "DNFs": 4,
+      "RecentUpgrades": false,
+      "RecentRacePositions": [7, 12, 13, 13, 11, 8, 13],
+      "RecentQualifyingPositions": [4, 9, 16, 10, 11, 8, 11]
+    },
+    "IsTeamLeader": false,
+    "CurrentRaceNumber": 11,
+    "TotalRacesInSeason": 24,
+    "PreviousTeam": "Williams",
+    "RacesWithCurrentTeam": 4
+  },
+  {
+    "Name": "Alexander Albon",
+    "Team": "Williams",
+    "Age": 28,
+    "ChampionshipWins": 0,
+    "CareerPodiums": 2,
+    "CareerStarts": 114,
+    "Seasons": [
+      {
+        "Year": 2025,
+        "Team": "Williams",
+        "Points": 42,
+        "Wins": 0,
+        "Podiums": 0,
+        "Races": 10,
+        "PointFinishes": 7,
+        "DNFs": 2,
+        "TeamPoints": 55,
+        "TeamPosition": 5,
+        "TeammatePoints": 13,
+        "RecentRaces": [
+          {
+            "RaceName": "Miami Grand Prix",
+            "RaceNumber": 6,
+            "StartPosition": 7,
+            "FinishPosition": 5,
+            "PointsScored": 10.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          },
+          {
+            "RaceName": "Emilia Romagna Grand Prix",
+            "RaceNumber": 7,
+            "StartPosition": 7,
+            "FinishPosition": 5,
+            "PointsScored": 10.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          },
+          {
+            "RaceName": "Monaco Grand Prix",
+            "RaceNumber": 8,
+            "StartPosition": 10,
+            "FinishPosition": 9,
+            "PointsScored": 2.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          },
+          {
+            "RaceName": "Spanish Grand Prix",
+            "RaceNumber": 9,
+            "StartPosition": 11,
+            "FinishPosition": 20,
+            "PointsScored": 0.0,
+            "FastestLap": false,
+            "DNF": true,
+            "Classified": false
+          },
+          {
+            "RaceName": "Canadian Grand Prix",
+            "RaceNumber": 10,
+            "StartPosition": 9,
+            "FinishPosition": 20,
+            "PointsScored": 0.0,
+            "FastestLap": false,
+            "DNF": true,
+            "Classified": false
+          }
+        ]
+      },
+      {
+        "Year": 2024,
+        "Team": "Williams",
+        "Points": 12.0,
+        "Wins": 0,
+        "Podiums": 0,
+        "Races": 24,
+        "PointFinishes": 4,
+        "DNFs": 6,
+        "TeamPoints": 17.0,
+        "TeamPosition": 9,
+        "TeammatePoints": 5.0
+      }
+    ],
+    "PrimaryStyle": "Defensive",
+    "SecondaryStyle": "Smooth",
+    "Specialties": ["WetWeather", "OvertakingSkill"],
+    "Weaknesses": ["QualifyingPace"],
+    "IsRookie": false,
+    "MarketPopularity": "Medium",
+    "TeamData": {
+      "Year": 2025,
+      "Name": "Williams",
+      "CurrentRace": 10,
+      "PowerUnit": "Mercedes",
+      "SeasonPosition": 5,
+      "SeasonPoints": 55,
+      "BudgetTier": "Lower-Mid",
+      "SeasonHistory": [
+        {
+          "Year": 2024,
+          "Position": 8,
+          "Points": 17,
+          "Wins": 0,
+          "Podiums": 0,
+          "Races": 24
+        },
+        {
+          "Year": 2023,
+          "Position": 7,
+          "Points": 28,
+          "Wins": 0,
+          "Podiums": 0,
+          "Races": 22
+        }
+      ],
+      "Wins": 0,
+      "Podiums": 0,
+      "DNFs": 4,
+      "RecentUpgrades": false,
+      "RecentRacePositions": [12, 8, 5, 5, 9, 14, 10],
+      "RecentQualifyingPositions": [8, 6, 6, 6, 10, 11, 9]
+    },
+    "IsTeamLeader": false,
+    "CurrentRaceNumber": 11,
+    "TotalRacesInSeason": 24,
+    "PreviousTeam": "Williams",
+    "RacesWithCurrentTeam": 78
+  },
+  {
+    "Name": "Carlos Sainz",
+    "Team": "Williams",
+    "Age": 30,
+    "ChampionshipWins": 0,
+    "CareerPodiums": 27,
+    "CareerStarts": 216,
+    "Seasons": [
+      {
+        "Year": 2025,
+        "Team": "Williams",
+        "Points": 13,
+        "Wins": 0,
+        "Podiums": 0,
+        "Races": 10,
+        "PointFinishes": 6,
+        "DNFs": 2,
+        "TeamPoints": 55,
+        "TeamPosition": 5,
+        "TeammatePoints": 42,
+        "RecentRaces": [
+          {
+            "RaceName": "Miami Grand Prix",
+            "RaceNumber": 6,
+            "FinishPosition": 9,
+            "StartPosition": 6,
+            "PointsScored": 2.0,
+            "FastestLap": false,
+            "DNF": true,
+            "Classified": false
+          },
+          {
+            "RaceName": "Emilia Romagna Grand Prix",
+            "RaceNumber": 7,
+            "FinishPosition": 8,
+            "StartPosition": 6,
+            "PointsScored": 4.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          },
+          {
+            "RaceName": "Monaco Grand Prix",
+            "RaceNumber": 8,
+            "FinishPosition": 10,
+            "StartPosition": 11,
+            "PointsScored": 1.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          },
+          {
+            "RaceName": "Spanish Grand Prix",
+            "RaceNumber": 9,
+            "FinishPosition": 14,
+            "StartPosition": 17,
+            "PointsScored": 0.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          },
+          {
+            "RaceName": "Canadian Grand Prix",
+            "RaceNumber": 10,
+            "FinishPosition": 10,
+            "StartPosition": 16,
+            "PointsScored": 1.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          }
+        ]
+      },
+      {
+        "Year": 2024,
+        "Team": "Ferrari",
+        "Points": 290,
+        "Wins": 2,
+        "Podiums": 9,
+        "Races": 24,
+        "PointFinishes": 19,
+        "DNFs": 3,
+        "TeamPoints": 646,
+        "TeamPosition": 2,
+        "TeammatePoints": 356
+      }
+    ],
+    "PrimaryStyle": "Defensive",
+    "SecondaryStyle": "Smooth",
+    "Specialties": ["RaceConsistency", "TechnicalCorners", "WetWeather"],
+    "Weaknesses": ["QualifyingPace"],
+    "IsRookie": false,
+    "MarketPopularity": "Medium",
+    "TeamData": {
+      "Year": 2025,
+      "Name": "Williams",
+      "CurrentRace": 10,
+      "PowerUnit": "Mercedes",
+      "SeasonPosition": 5,
+      "SeasonPoints": 55,
+      "BudgetTier": "Lower-Mid",
+      "SeasonHistory": [
+        {
+          "Year": 2024,
+          "Position": 8,
+          "Points": 17,
+          "Wins": 0,
+          "Podiums": 0,
+          "Races": 24
+        },
+        {
+          "Year": 2023,
+          "Position": 7,
+          "Points": 28,
+          "Wins": 0,
+          "Podiums": 0,
+          "Races": 22
+        }
+      ],
+      "Wins": 0,
+      "Podiums": 0,
+      "DNFs": 4,
+      "RecentUpgrades": false,
+      "RecentRacePositions": [12, 8, 5, 5, 9, 14, 10],
+      "RecentQualifyingPositions": [8, 6, 6, 6, 10, 11, 9]
+    },
+    "IsTeamLeader": false,
+    "CurrentRaceNumber": 11,
+    "TotalRacesInSeason": 24,
+    "PreviousTeam": "Ferrari",
+    "RacesWithCurrentTeam": 10
+  },
+  {
+    "Name": "Esteban Ocon",
+    "Team": "Haas",
+    "Age": 28,
+    "ChampionshipWins": 0,
+    "CareerPodiums": 4,
+    "CareerStarts": 166,
+    "Seasons": [
+      {
+        "Year": 2025,
+        "Team": "Haas",
+        "Points": 22,
+        "Wins": 0,
+        "Podiums": 0,
+        "Races": 10,
+        "PointFinishes": 4,
+        "DNFs": 1,
+        "TeamPoints": 28,
+        "TeamPosition": 6,
+        "TeammatePoints": 6,
+        "RecentRaces": [
+          {
+            "RaceName": "Miami Grand Prix",
+            "RaceNumber": 6,
+            "FinishPosition": 12,
+            "StartPosition": 9,
+            "PointsScored": 0.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          },
+          {
+            "RaceName": "Emilia Romagna Grand Prix",
+            "RaceNumber": 7,
+            "FinishPosition": 20,
+            "StartPosition": 18,
+            "PointsScored": 0.0,
+            "FastestLap": false,
+            "DNF": true,
+            "Classified": false
+          },
+          {
+            "RaceName": "Monaco Grand Prix",
+            "RaceNumber": 8,
+            "FinishPosition": 7,
+            "StartPosition": 8,
+            "PointsScored": 6.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          },
+          {
+            "RaceName": "Spanish Grand Prix",
+            "RaceNumber": 9,
+            "FinishPosition": 16,
+            "StartPosition": 17,
+            "PointsScored": 0.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          },
+          {
+            "RaceName": "Canadian Grand Prix",
+            "RaceNumber": 10,
+            "FinishPosition": 9,
+            "StartPosition": 15,
+            "PointsScored": 2.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          }
+        ]
+      },
+      {
+        "Year": 2024,
+        "Team": "Alpine",
+        "Points": 23,
+        "Wins": 0,
+        "Podiums": 1,
+        "Races": 24,
+        "PointFinishes": 5,
+        "DNFs": 2,
+        "TeamPoints": 65,
+        "TeamPosition": 6,
+        "TeammatePoints": 42
+      }
+    ],
+    "PrimaryStyle": "Smooth",
+    "SecondaryStyle": "Defensive",
+    "Specialties": ["WetWeather", "RaceConsistency"],
+    "Weaknesses": ["QualifyingPace"],
+    "IsRookie": false,
+    "MarketPopularity": "Low",
+    "TeamData": {
+      "Year": 2025,
+      "Name": "Haas",
+      "CurrentRace": 10,
+      "PowerUnit": "Ferrari",
+      "SeasonPosition": 6,
+      "SeasonPoints": 28,
+      "BudgetTier": "Backmarker",
+      "SeasonHistory": [
+        {
+          "Year": 2024,
+          "Position": 7,
+          "Points": 58,
+          "Wins": 0,
+          "Podiums": 0,
+          "Races": 24
+        },
+        {
+          "Year": 2023,
+          "Position": 7,
+          "Points": 40,
+          "Wins": 0,
+          "Podiums": 0,
+          "Races": 22
+        }
+      ],
+      "Wins": 0,
+      "Podiums": 0,
+      "DNFs": 2,
+      "RecentUpgrades": false,
+      "RecentRacePositions": [8, 13, 12, 17, 7, 16, 9],
+      "RecentQualifyingPositions": [14, 15, 9, 18, 8, 14, 14]
+    },
+    "IsTeamLeader": true,
+    "CurrentRaceNumber": 11,
+    "TotalRacesInSeason": 24,
+    "PreviousTeam": "Alpine",
+    "RacesWithCurrentTeam": 10
+  },
+  {
+    "Name": "Oliver Bearman",
+    "Team": "Haas",
+    "Age": 19,
+    "ChampionshipWins": 0,
+    "CareerPodiums": 0,
+    "CareerStarts": 13,
+    "Seasons": [
+      {
+        "Year": 2025,
+        "Team": "Haas",
+        "Points": 6,
+        "Wins": 0,
+        "Podiums": 0,
+        "Races": 10,
+        "PointFinishes": 3,
+        "DNFs": 1,
+        "TeamPoints": 28,
+        "TeamPosition": 6,
+        "TeammatePoints": 22,
+        "RecentRaces": [
+          {
+            "RaceName": "Miami Grand Prix",
+            "RaceNumber": 6,
+            "FinishPosition": 19,
+            "StartPosition": 19,
+            "PointsScored": 0.0,
+            "FastestLap": false,
+            "DNF": true,
+            "Classified": false
+          },
+          {
+            "RaceName": "Emilia Romagna Grand Prix",
+            "RaceNumber": 7,
+            "FinishPosition": 17,
+            "StartPosition": 19,
+            "PointsScored": 0.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          },
+          {
+            "RaceName": "Monaco Grand Prix",
+            "RaceNumber": 8,
+            "FinishPosition": 12,
+            "StartPosition": 17,
+            "PointsScored": 0.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          },
+          {
+            "RaceName": "Spanish Grand Prix",
+            "RaceNumber": 9,
+            "FinishPosition": 17,
+            "StartPosition": 14,
+            "PointsScored": 0.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          },
+          {
+            "RaceName": "Canadian Grand Prix",
+            "RaceNumber": 10,
+            "FinishPosition": 11,
+            "StartPosition": 13,
+            "PointsScored": 0.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          }
+        ]
+      }
+    ],
+    "PrimaryStyle": "Aggressive",
+    "SecondaryStyle": "Technical",
+    "Specialties": ["WetWeather", "RaceConsistency"],
+    "Weaknesses": ["RaceConsistency", "QualifyingPace"],
+    "IsRookie": true,
+    "MarketPopularity": "Low",
+    "TeamData": {
+      "Year": 2025,
+      "Name": "Haas",
+      "CurrentRace": 10,
+      "PowerUnit": "Ferrari",
+      "SeasonPosition": 6,
+      "SeasonPoints": 28,
+      "BudgetTier": "Backmarker",
+      "SeasonHistory": [
+        {
+          "Year": 2024,
+          "Position": 7,
+          "Points": 58,
+          "Wins": 0,
+          "Podiums": 0,
+          "Races": 24
+        },
+        {
+          "Year": 2023,
+          "Position": 7,
+          "Points": 40,
+          "Wins": 0,
+          "Podiums": 0,
+          "Races": 22
+        }
+      ],
+      "Wins": 0,
+      "Podiums": 0,
+      "DNFs": 2,
+      "RecentUpgrades": false,
+      "RecentRacePositions": [8, 13, 12, 17, 7, 16, 9],
+      "RecentQualifyingPositions": [14, 15, 9, 18, 8, 14, 14]
+    },
+    "IsTeamLeader": false,
+    "CurrentRaceNumber": 11,
+    "TotalRacesInSeason": 24,
+    "PreviousTeam": "",
+    "RacesWithCurrentTeam": 10
+  },
+  {
+    "Name": "Nico Hulkenberg",
+    "Team": "Kick Sauber",
+    "Age": 36,
+    "ChampionshipWins": 0,
+    "CareerPodiums": 0,
+    "CareerStarts": 237,
+    "Seasons": [
+      {
+        "Year": 2025,
+        "Team": "Kick Sauber",
+        "Points": 20,
+        "Wins": 0,
+        "Podiums": 0,
+        "Races": 10,
+        "PointFinishes": 3,
+        "DNFs": 0,
+        "TeamPoints": 20,
+        "TeamPosition": 9,
+        "TeammatePoints": 0,
+        "RecentRaces": [
+          {
+            "RaceName": "Miami Grand Prix",
+            "RaceNumber": 6,
+            "FinishPosition": 14,
+            "StartPosition": 16,
+            "PointsScored": 0.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          },
+          {
+            "RaceName": "Emilia Romagna Grand Prix",
+            "RaceNumber": 7,
+            "FinishPosition": 12,
+            "StartPosition": 17,
+            "PointsScored": 0.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          },
+          {
+            "RaceName": "Monaco Grand Prix",
+            "RaceNumber": 8,
+            "FinishPosition": 16,
+            "StartPosition": 13,
+            "PointsScored": 0.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          },
+          {
+            "RaceName": "Spanish Grand Prix",
+            "RaceNumber": 9,
+            "FinishPosition": 5,
+            "StartPosition": 15,
+            "PointsScored": 10.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          },
+          {
+            "RaceName": "Canadian Grand Prix",
+            "RaceNumber": 10,
+            "FinishPosition": 8,
+            "StartPosition": 11,
+            "PointsScored": 4.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          }
+        ]
+      },
+      {
+        "Year": 2024,
+        "Team": "Haas",
+        "Points": 41,
+        "Wins": 0,
+        "Podiums": 0,
+        "Races": 24,
+        "PointFinishes": 12,
+        "DNFs": 3,
+        "TeamPoints": 57,
+        "TeamPosition": 7,
+        "TeammatePoints": 16
+      }
+    ],
+    "PrimaryStyle": "Smooth",
+    "SecondaryStyle": "Defensive",
+    "Specialties": ["WetWeather", "QualifyingPace"],
+    "Weaknesses": ["RaceConsistency"],
+    "IsRookie": false,
+    "MarketPopularity": "Low",
+    "TeamData": {
+      "Name": "Kick Sauber",
+      "CurrentRace": 10,
+      "PowerUnit": "Ferrari",
+      "Year": 2025,
+      "SeasonPosition": 9,
+      "SeasonPoints": 20,
+      "BudgetTier": "Backmarker",
+      "SeasonHistory": [
+        {
+          "Year": 2024,
+          "Position": 10,
+          "Points": 4,
+          "Wins": 0,
+          "Podiums": 0,
+          "Races": 24
+        },
+        {
+          "Year": 2023,
+          "Position": 9,
+          "Points": 16,
+          "Wins": 0,
+          "Podiums": 0,
+          "Races": 22
+        }
+      ],
+      "Wins": 0,
+      "Podiums": 0,
+      "DNFs": 2,
+      "RecentUpgrades": true,
+      "RecentRacePositions": [18, 15, 14, 12, 14, 5, 8],
+      "RecentQualifyingPositions": [16, 18, 15, 15, 13, 12, 13]
+    },
+    "IsTeamLeader": true,
+    "CurrentRaceNumber": 11,
+    "TotalRacesInSeason": 24,
+    "PreviousTeam": "Haas",
+    "RacesWithCurrentTeam": 10
+  },
+  {
+    "Name": "Gabriel Bortoleto",
+    "Team": "Kick Sauber",
+    "Age": 20,
+    "ChampionshipWins": 0,
+    "CareerPodiums": 0,
+    "CareerStarts": 10,
+    "Seasons": [
+      {
+        "Year": 2025,
+        "Team": "Kick Sauber",
+        "Points": 0,
+        "Wins": 0,
+        "Podiums": 0,
+        "Races": 11,
+        "PointFinishes": 0,
+        "DNFs": 2,
+        "TeamPoints": 20,
+        "TeamPosition": 9,
+        "TeammatePoints": 20,
+        "RecentRaces": [
+          {
+            "RaceName": "Miami Grand Prix",
+            "RaceNumber": 6,
+            "FinishPosition": 18,
+            "StartPosition": 13,
+            "PointsScored": 0.0,
+            "FastestLap": false,
+            "DNF": true,
+            "Classified": false
+          },
+          {
+            "RaceName": "Emilia Romagna Grand Prix",
+            "RaceNumber": 7,
+            "FinishPosition": 18,
+            "StartPosition": 14,
+            "PointsScored": 0.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          },
+          {
+            "RaceName": "Monaco Grand Prix",
+            "RaceNumber": 8,
+            "FinishPosition": 14,
+            "StartPosition": 16,
+            "PointsScored": 0.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          },
+          {
+            "RaceName": "Spanish Grand Prix",
+            "RaceNumber": 9,
+            "FinishPosition": 12,
+            "StartPosition": 12,
+            "PointsScored": 0.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          },
+          {
+            "RaceName": "Canadian Grand Prix",
+            "RaceNumber": 10,
+            "FinishPosition": 14,
+            "StartPosition": 16,
+            "PointsScored": 0.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          }
+        ]
+      }
+    ],
+    "PrimaryStyle": "Smooth",
+    "SecondaryStyle": "Defensive",
+    "Specialties": ["WetWeather", "QualifyingPace"],
+    "Weaknesses": ["RaceStart", "RaceConsistency"],
+    "IsRookie": true,
+    "MarketPopularity": "Low",
+    "TeamData": {
+      "Name": "Kick Sauber",
+      "CurrentRace": 10,
+      "PowerUnit": "Ferrari",
+      "SeasonPosition": 9,
+      "Year": 2025,
+      "SeasonPoints": 20,
+      "BudgetTier": "Lower-Mid",
+      "SeasonHistory": [
+        {
+          "Year": 2024,
+          "Position": 10,
+          "Points": 4,
+          "Wins": 0,
+          "Podiums": 0,
+          "Races": 24
+        },
+        {
+          "Year": 2023,
+          "Position": 9,
+          "Points": 16,
+          "Wins": 0,
+          "Podiums": 0,
+          "Races": 22
+        }
+      ],
+      "Wins": 0,
+      "Podiums": 0,
+      "DNFs": 2,
+      "RecentUpgrades": true,
+      "RecentRacePositions": [18, 15, 14, 12, 14, 5, 8],
+      "RecentQualifyingPositions": [16, 18, 15, 15, 13, 12, 13]
+    },
+    "IsTeamLeader": false,
+    "CurrentRaceNumber": 11,
+    "TotalRacesInSeason": 24,
+    "PreviousTeam": "",
+    "RacesWithCurrentTeam": 10
+  },
+  {
+    "Name": "Isack Hadjar",
+    "Team": "Racing Bulls",
+    "Age": 20,
+    "ChampionshipWins": 0,
+    "CareerPodiums": 0,
+    "CareerStarts": 10,
+    "Seasons": [
+      {
+        "Year": 2025,
+        "Team": "Racing Bulls",
+        "Points": 21,
+        "Wins": 0,
+        "Podiums": 0,
+        "Races": 10,
+        "PointFinishes": 5,
+        "DNFs": 1,
+        "TeamPoints": 28,
+        "TeamPosition": 7,
+        "TeammatePoints": 7,
+        "RecentRaces": [
+          {
+            "RaceName": "Miami Grand Prix",
+            "RaceNumber": 6,
+            "FinishPosition": 11,
+            "StartPosition": 11,
+            "PointsScored": 0.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          },
+          {
+            "RaceName": "Emilia Romagna Grand Prix",
+            "RaceNumber": 7,
+            "FinishPosition": 9,
+            "StartPosition": 9,
+            "PointsScored": 2.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          },
+          {
+            "RaceName": "Monaco Grand Prix",
+            "RaceNumber": 8,
+            "FinishPosition": 6,
+            "StartPosition": 5,
+            "PointsScored": 8.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          },
+          {
+            "RaceName": "Spanish Grand Prix",
+            "RaceNumber": 9,
+            "FinishPosition": 7,
+            "StartPosition": 9,
+            "PointsScored": 6.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          },
+          {
+            "RaceName": "Canadian Grand Prix",
+            "RaceNumber": 10,
+            "FinishPosition": 16,
+            "StartPosition": 12,
+            "PointsScored": 0.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          }
+        ]
+      }
+    ],
+    "PrimaryStyle": "Aggressive",
+    "SecondaryStyle": "Defensive",
+    "Specialties": ["WetWeather", "QualifyingPace"],
+    "Weaknesses": ["RaceStart", "RaceConsistency"],
+    "IsRookie": true,
+    "MarketPopularity": "Medium",
+    "TeamData": {
+      "Year": 2025,
+      "Name": "Racing Bulls",
+      "CurrentRace": 10,
+      "PowerUnit": "Honda RBPT",
+      "SeasonPosition": 7,
+      "SeasonPoints": 28,
+      "BudgetTier": "Lower-Mid",
+      "SeasonHistory": [
+        {
+          "Year": 2024,
+          "Position": 8,
+          "Points": 46,
+          "Wins": 0,
+          "Podiums": 0,
+          "Races": 24
+        },
+        {
+          "Year": 2023,
+          "Position": 8,
+          "Points": 25,
+          "Wins": 0,
+          "Podiums": 0,
+          "Races": 22
+        }
+      ],
+      "Wins": 0,
+      "Podiums": 0,
+      "DNFs": 2,
+      "RecentUpgrades": false,
+      "RecentRacePositions": [13, 10, 11, 9, 6, 7, 16],
+      "RecentQualifyingPositions": [12, 14, 11, 9, 8, 9, 12]
+    },
+    "IsTeamLeader": true,
+    "CurrentRaceNumber": 10,
+    "TotalRacesInSeason": 24,
+    "PreviousTeam": "",
+    "RacesWithCurrentTeam": 10
+  },
+  {
+    "Name": "Liam Lawson",
+    "Team": "Racing Bulls",
+    "Age": 23,
+    "ChampionshipWins": 0,
+    "CareerPodiums": 0,
+    "CareerStarts": 10,
+    "Seasons": [
+      {
+        "Year": 2025,
+        "Team": "Racing Bulls",
+        "Points": 4.0,
+        "Wins": 0,
+        "Podiums": 0,
+        "Races": 7,
+        "PointFinishes": 1,
+        "DNFs": 3,
+        "TeamPoints": 28,
+        "TeamPosition": 7,
+        "TeammatePoints": 21,
+        "RecentRaces": [
+          {
+            "RaceName": "Miami Grand Prix",
+            "RaceNumber": 6,
+            "FinishPosition": 17,
+            "StartPosition": 15,
+            "PointsScored": 0.0,
+            "FastestLap": false,
+            "DNF": true,
+            "Classified": false
+          },
+          {
+            "RaceName": "Emilia Romagna Grand Prix",
+            "RaceNumber": 7,
+            "FinishPosition": 14,
+            "StartPosition": 15,
+            "PointsScored": 0.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          },
+          {
+            "RaceName": "Monaco Grand Prix",
+            "RaceNumber": 8,
+            "FinishPosition": 8,
+            "StartPosition": 9,
+            "PointsScored": 4.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          },
+          {
+            "RaceName": "Spanish Grand Prix",
+            "RaceNumber": 9,
+            "FinishPosition": 11,
+            "StartPosition": 13,
+            "PointsScored": 0.0,
+            "FastestLap": false,
+            "DNF": false,
+            "Classified": true
+          },
+          {
+            "RaceName": "Canadian Grand Prix",
+            "RaceNumber": 10,
+            "FinishPosition": 19,
+            "StartPosition": 19,
+            "PointsScored": 0.0,
+            "FastestLap": false,
+            "DNF": true,
+            "Classified": false
+          }
+        ]
+      }
+    ],
+    "PrimaryStyle": "Aggressive",
+    "SecondaryStyle": "Technical",
+    "Specialties": ["RaceConsistency", "OvertakingSkill"],
+    "Weaknesses": ["QualifyingPace"],
+    "IsRookie": true,
+    "MarketPopularity": "Low",
+    "TeamData": {
+      "Year": 2025,
+      "Name": "Racing Bulls",
+      "CurrentRace": 10,
+      "PowerUnit": "Honda RBPT",
+      "SeasonPosition": 7,
+      "SeasonPoints": 28,
+      "BudgetTier": "Lower-Mid",
+      "SeasonHistory": [
+        {
+          "Year": 2024,
+          "Position": 8,
+          "Points": 46,
+          "Wins": 0,
+          "Podiums": 0,
+          "Races": 24
+        },
+        {
+          "Year": 2023,
+          "Position": 8,
+          "Points": 25,
+          "Wins": 0,
+          "Podiums": 0,
+          "Races": 22
+        }
+      ],
+      "Wins": 0,
+      "Podiums": 0,
+      "DNFs": 2,
+      "RecentUpgrades": false,
+      "RecentRacePositions": [13, 10, 11, 9, 6, 7, 16],
+      "RecentQualifyingPositions": [12, 14, 11, 9, 8, 9, 12]
+    },
+    "IsTeamLeader": false,
+    "CurrentRaceNumber": 10,
+    "TotalRacesInSeason": 24,
+    "PreviousTeam": "",
+    "RacesWithCurrentTeam": 10
+  }
+]
